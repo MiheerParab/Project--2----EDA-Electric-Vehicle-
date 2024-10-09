@@ -1,1 +1,1 @@
-# Project--2--EDA-Electric-Vehicle-
+# EDA--Project-2::Electric-Vehicle-
